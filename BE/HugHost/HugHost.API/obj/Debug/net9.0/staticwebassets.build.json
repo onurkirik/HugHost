@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DYmt/IziKYmKBHB8NsxJnqch8/M7DRGFv3+wX5ID2tg=",
+  "Source": "HugHost.API",
+  "BasePath": "_content/HugHost.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
