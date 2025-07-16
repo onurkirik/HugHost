@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.API", "HugHost.API\HugHost.API.csproj", "{72B03D08-C49D-4644-9EC8-B43254610AF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.Application", "HugHost.Application\HugHost.Application.csproj", "{1F882DEB-597A-46E9-B033-6E6A373E28C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.Domain", "HugHost.Domain\HugHost.Domain.csproj", "{EFAF703F-2260-4185-84BD-396E1E835FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.Infrastructure", "HugHost.Infrastructure\HugHost.Infrastructure.csproj", "{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,17 @@ Global
 		{72B03D08-C49D-4644-9EC8-B43254610AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B03D08-C49D-4644-9EC8-B43254610AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B03D08-C49D-4644-9EC8-B43254610AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F882DEB-597A-46E9-B033-6E6A373E28C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F882DEB-597A-46E9-B033-6E6A373E28C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F882DEB-597A-46E9-B033-6E6A373E28C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F882DEB-597A-46E9-B033-6E6A373E28C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAF703F-2260-4185-84BD-396E1E835FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAF703F-2260-4185-84BD-396E1E835FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAF703F-2260-4185-84BD-396E1E835FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAF703F-2260-4185-84BD-396E1E835FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

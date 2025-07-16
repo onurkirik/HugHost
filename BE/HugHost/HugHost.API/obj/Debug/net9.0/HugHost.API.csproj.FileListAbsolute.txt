@@ -32,3 +32,6 @@
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/obj/Debug/net9.0/HugHost.API.pdb
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/obj/Debug/net9.0/HugHost.API.genruntimeconfig.cache
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/obj/Debug/net9.0/ref/HugHost.API.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
