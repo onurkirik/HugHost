@@ -1,0 +1,12 @@
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/bin/Debug/net9.0/HugHost.Domain.deps.json
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/bin/Debug/net9.0/HugHost.Domain.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/bin/Debug/net9.0/HugHost.Domain.pdb
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.AssemblyInfoInputs.cache
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.AssemblyInfo.cs
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.csproj.CoreCompileInputs.cache
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.sourcelink.json
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/refint/HugHost.Domain.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.pdb
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/ref/HugHost.Domain.dll

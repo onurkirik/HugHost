@@ -1,0 +1,16 @@
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/bin/Debug/net9.0/HugHost.Application.deps.json
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/bin/Debug/net9.0/HugHost.Application.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/bin/Debug/net9.0/HugHost.Application.pdb
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/bin/Debug/net9.0/HugHost.Domain.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/bin/Debug/net9.0/HugHost.Domain.pdb
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.csproj.AssemblyReference.cache
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.AssemblyInfoInputs.cache
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.AssemblyInfo.cs
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.csproj.CoreCompileInputs.cache
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.sourcelink.json
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost..2144BE56.Up2Date
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/refint/HugHost.Application.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/HugHost.Application.pdb
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Application/obj/Debug/net9.0/ref/HugHost.Application.dll
