@@ -6,8 +6,12 @@
 
     <ItemGroup>
       <Folder Include="Commands\" />
-      <Folder Include="Queries\" />
       <Folder Include="Services\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Mediator.Net" Version="4.9.0" />
+      <PackageReference Include="MediatR" Version="13.0.0" />
     </ItemGroup>
 
     <PropertyGroup>

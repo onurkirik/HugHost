@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.Domain", "HugHost.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.Infrastructure", "HugHost.Infrastructure\HugHost.Infrastructure.csproj", "{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugHost.Presentation", "HugHost.Presentation\HugHost.Presentation.csproj", "{2E06B30A-334A-4CB7-A22D-AD1EDB372D96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40DF503-3277-46DA-9A72-A9C8AA8DFD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E06B30A-334A-4CB7-A22D-AD1EDB372D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E06B30A-334A-4CB7-A22D-AD1EDB372D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E06B30A-334A-4CB7-A22D-AD1EDB372D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E06B30A-334A-4CB7-A22D-AD1EDB372D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

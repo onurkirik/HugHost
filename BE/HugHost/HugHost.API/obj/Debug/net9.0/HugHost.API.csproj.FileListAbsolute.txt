@@ -142,3 +142,15 @@
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Mediator.Net.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Mediator.Net.MicrosoftDependencyInjection.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/MediatR.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/System.Interactive.Async.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/System.Linq.Async.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/HugHost.Presentation.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/HugHost.Presentation.pdb

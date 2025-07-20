@@ -9,12 +9,10 @@ namespace HugHost.Infrastructure.Persistence.Services;
 public class UserService : IUserService
 {
     private readonly IGenericRepository<User> _userRepository;
-    private readonly UserManager<User> _userManager;
 
-    public UserService(IGenericRepository<User> userRepository, UserManager<User> userManager)
+    public UserService(IGenericRepository<User> userRepository)
     {
         _userRepository = userRepository;
-        _userManager = userManager;
     }
 
     public async Task<User?> GetUserAsync(Expression<Func<User, bool>> predicate)

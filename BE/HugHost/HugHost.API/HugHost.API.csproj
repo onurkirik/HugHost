@@ -18,6 +18,11 @@
     <ItemGroup>
       <ProjectReference Include="..\HugHost.Application\HugHost.Application.csproj" />
       <ProjectReference Include="..\HugHost.Infrastructure\HugHost.Infrastructure.csproj" />
+      <ProjectReference Include="..\HugHost.Presentation\HugHost.Presentation.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
     </ItemGroup>
 
 </Project>
