@@ -11,8 +11,8 @@ public interface IGenericRepository<T> where T : class
 
     Task<bool> AnyAsync(Expression<Func<T, bool>> predicate);
 
-    Task AddAsync(T entity);
-    void Update(T entity);
+    Task<T> AddAsync(T entity);
+    Task<T> Update(T entity);
     void Delete(T entity);
     Task SaveChangesAsync();
 }

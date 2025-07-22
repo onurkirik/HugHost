@@ -1,3 +1,4 @@
+using FluentValidation;
 using HugHost.Domain.Entities;
 using HugHost.Infrastructure;
 using HugHost.Infrastructure.Context;
@@ -19,6 +20,8 @@ builder.Services.AddMediatR(cfg =>
 {
     cfg.RegisterServicesFromAssembly(typeof(HugHost.Application.AssemblyReference).Assembly);
 });
+
+builder.Services.AddValidatorsFromAssembly(typeof(HugHost.Application.AssemblyReference).Assembly);
 
 builder.Services.AddCors(options =>
 {

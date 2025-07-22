@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HugHost.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d01dea73fbf4a808e0583e9db93699b400da1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94aead5092b849c64abb7875dc67c36d2784ca5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HugHost.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HugHost.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

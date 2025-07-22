@@ -42,7 +42,7 @@ public class UserService : IUserService
     public async Task<User> UpdateAsync(User user)
     {
         await _userManager.UpdateAsync(user);
-        
+
         await _userRepository.SaveChangesAsync();
 
         return user;
@@ -50,8 +50,6 @@ public class UserService : IUserService
 
     public async Task DeleteAsync(User user)
     {
-        _userRepository.Delete(user);
-
-        await _userRepository.SaveChangesAsync();
+        await _userManager.DeleteAsync(user);
     }
 }
