@@ -146,11 +146,11 @@
             },
             "Mapster": {
               "target": "Package",
-              "version": "[7.4.2-pre02, )"
+              "version": "[7.4.0, )"
             },
             "Mapster.DependencyInjection": {
               "target": "Package",
-              "version": "[1.0.3-pre02, )"
+              "version": "[1.0.1, )"
             },
             "MediatR": {
               "target": "Package",

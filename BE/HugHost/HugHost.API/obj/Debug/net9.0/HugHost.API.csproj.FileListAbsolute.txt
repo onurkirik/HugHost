@@ -154,3 +154,9 @@
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/System.Linq.Async.dll
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/HugHost.Presentation.dll
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/HugHost.Presentation.pdb
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/FluentValidation.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/FluentValidation.AspNetCore.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Mapster.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Mapster.Core.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.API/bin/Debug/net9.0/Mapster.DependencyInjection.dll

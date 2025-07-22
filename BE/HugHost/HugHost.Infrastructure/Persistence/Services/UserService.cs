@@ -9,10 +9,12 @@ namespace HugHost.Infrastructure.Persistence.Services;
 public class UserService : IUserService
 {
     private readonly IGenericRepository<User> _userRepository;
+    private readonly UserManager<User> _userManager;
 
-    public UserService(IGenericRepository<User> userRepository)
+    public UserService(IGenericRepository<User> userRepository, UserManager<User> userManager)
     {
         _userRepository = userRepository;
+        _userManager = userManager;
     }
 
     public async Task<User?> GetUserAsync(Expression<Func<User, bool>> predicate)
@@ -30,16 +32,20 @@ public class UserService : IUserService
         return await _userRepository.AnyAsync(predicate);
     }
 
-    public async Task AddAsync(User user)
+    public async Task<User> AddAsync(User user)
     {
-        await _userRepository.AddAsync(user);
+        await _userManager.CreateAsync(user, "Qwq1234.");
+
+        return user;
     }
 
-    public async Task UpdateAsync(User user)
+    public async Task<User> UpdateAsync(User user)
     {
-        _userRepository.Update(user);
-
+        await _userManager.UpdateAsync(user);
+        
         await _userRepository.SaveChangesAsync();
+
+        return user;
     }
 
     public async Task DeleteAsync(User user)

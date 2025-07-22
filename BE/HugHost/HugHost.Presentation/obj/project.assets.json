@@ -52,38 +52,38 @@
           }
         }
       },
-      "Mapster/7.4.2-pre02": {
+      "Mapster/7.4.0": {
         "type": "package",
         "dependencies": {
-          "Mapster.Core": "1.2.3-pre02"
+          "Mapster.Core": "1.2.1"
         },
         "compile": {
-          "lib/net9.0/Mapster.dll": {}
+          "lib/net7.0/Mapster.dll": {}
         },
         "runtime": {
-          "lib/net9.0/Mapster.dll": {}
+          "lib/net7.0/Mapster.dll": {}
         }
       },
-      "Mapster.Core/1.2.3-pre02": {
+      "Mapster.Core/1.2.1": {
         "type": "package",
         "compile": {
-          "lib/net9.0/Mapster.Core.dll": {}
+          "lib/net7.0/Mapster.Core.dll": {}
         },
         "runtime": {
-          "lib/net9.0/Mapster.Core.dll": {}
+          "lib/net7.0/Mapster.Core.dll": {}
         }
       },
-      "Mapster.DependencyInjection/1.0.3-pre02": {
+      "Mapster.DependencyInjection/1.0.1": {
         "type": "package",
         "dependencies": {
-          "Mapster": "7.4.2-pre02",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
+          "Mapster": "7.4.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
         "compile": {
-          "lib/net9.0/Mapster.DependencyInjection.dll": {}
+          "lib/net7.0/Mapster.DependencyInjection.dll": {}
         },
         "runtime": {
-          "lib/net9.0/Mapster.DependencyInjection.dll": {}
+          "lib/net7.0/Mapster.DependencyInjection.dll": {}
         }
       },
       "Mediator.Net/4.9.0": {
@@ -567,8 +567,8 @@
           "FluentValidation": "12.0.0",
           "FluentValidation.AspNetCore": "11.3.1",
           "HugHost.Domain": "1.0.0",
-          "Mapster": "7.4.2-pre02",
-          "Mapster.DependencyInjection": "1.0.3-pre02",
+          "Mapster": "7.4.0",
+          "Mapster.DependencyInjection": "1.0.1",
           "MediatR": "13.0.0",
           "Mediator.Net": "4.9.0"
         },
@@ -646,45 +646,45 @@
         "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
-    "Mapster/7.4.2-pre02": {
-      "sha512": "ry6YPGImX4aL0+Jj0rn46vqYOxzeyKOdlr6LUPvby1NLc68E5T2gRhDVWxvFexgZGOIW/U8NM87kygE4xl7Qvw==",
+    "Mapster/7.4.0": {
+      "sha512": "RYGoDqvS4WTKIq0HDyPBBVIj6N0mluOCXQ1Vk95JKseMHEsbCXSEGKSlP95oL+s42IXAXbqvHj7p0YaRBUcfqg==",
       "type": "package",
-      "path": "mapster/7.4.2-pre02",
+      "path": "mapster/7.4.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
-        "lib/net8.0/Mapster.dll",
-        "lib/net9.0/Mapster.dll",
-        "mapster.7.4.2-pre02.nupkg.sha512",
+        "lib/net6.0/Mapster.dll",
+        "lib/net7.0/Mapster.dll",
+        "mapster.7.4.0.nupkg.sha512",
         "mapster.nuspec"
       ]
     },
-    "Mapster.Core/1.2.3-pre02": {
-      "sha512": "FDVPfGvCz1RRb1PYeoddiJftxo+ANAifiaqkZbH2kijZT2GcoR1w6byLQ8Czc9YBuNZqHHV4LKeXZA+eoFuCTw==",
+    "Mapster.Core/1.2.1": {
+      "sha512": "11lokmfliBEMMmjeqxFGNpqGXq6tN96zFqpBmfYeahr4Ybk63oDmeJmOflsATjobYkX248g5Y62oQ2NNnZaeww==",
       "type": "package",
-      "path": "mapster.core/1.2.3-pre02",
+      "path": "mapster.core/1.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
-        "lib/net8.0/Mapster.Core.dll",
-        "lib/net9.0/Mapster.Core.dll",
-        "mapster.core.1.2.3-pre02.nupkg.sha512",
+        "lib/net6.0/Mapster.Core.dll",
+        "lib/net7.0/Mapster.Core.dll",
+        "mapster.core.1.2.1.nupkg.sha512",
         "mapster.core.nuspec"
       ]
     },
-    "Mapster.DependencyInjection/1.0.3-pre02": {
-      "sha512": "1iB5RtdPRuH30kVdgDLdF5nCSE13juyiz9r3WL5ASE/q+FSyLUQtsOTKx6wSObAIxz+AmHV6dgNkzkTOcFwNtQ==",
+    "Mapster.DependencyInjection/1.0.1": {
+      "sha512": "LfjnRIwx6WAo3ssq8PFeaHFaUz00BfSG9BhWgXsiDa3H5lDhG0lpMGDF6w2ZnooS4eHYmAv4f77VxmzpvgorNg==",
       "type": "package",
-      "path": "mapster.dependencyinjection/1.0.3-pre02",
+      "path": "mapster.dependencyinjection/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
-        "lib/net8.0/Mapster.DependencyInjection.dll",
-        "lib/net9.0/Mapster.DependencyInjection.dll",
-        "mapster.dependencyinjection.1.0.3-pre02.nupkg.sha512",
+        "lib/net6.0/Mapster.DependencyInjection.dll",
+        "lib/net7.0/Mapster.DependencyInjection.dll",
+        "mapster.dependencyinjection.1.0.1.nupkg.sha512",
         "mapster.dependencyinjection.nuspec"
       ]
     },

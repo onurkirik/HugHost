@@ -1,5 +1,5 @@
 using HugHost.Application.Common.Responses;
-using HugHost.Application.Shared.DTOs;
+using HugHost.Application.Shared.DTOs.User;
 using MediatR;
 
 namespace HugHost.Application.Queries.User.GetUser;

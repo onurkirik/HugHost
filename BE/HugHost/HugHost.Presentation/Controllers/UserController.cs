@@ -1,6 +1,6 @@
 using HugHost.Application.Common.Responses;
 using HugHost.Application.Queries.User.GetUser;
-using HugHost.Application.Shared.DTOs;
+using HugHost.Application.Shared.DTOs.User;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

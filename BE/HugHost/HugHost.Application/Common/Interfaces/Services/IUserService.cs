@@ -8,7 +8,7 @@ public interface IUserService
     Task<User?> GetUserAsync(Expression<Func<User, bool>> predicate);
     Task<IReadOnlyList<User?>?> GetUsersAsync(Expression<Func<User, bool>> predicate);
     Task<bool> AnyAsync(Expression<Func<User, bool>> predicate);
-    Task AddAsync(User user);
-    Task UpdateAsync(User user);
+    Task<User> AddAsync(User user);
+    Task<User> UpdateAsync(User user);
     Task DeleteAsync(User user);
 }

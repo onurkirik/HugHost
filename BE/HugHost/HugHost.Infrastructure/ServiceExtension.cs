@@ -25,8 +25,12 @@ public static class ServiceExtension
         services.AddScoped(typeof(IGenericRepository<User>),
             typeof(GenericRepository<User>));
 
+        services.AddScoped<RoleManager<Role>>();
+        services.AddScoped(typeof(IGenericRepository<Role>), typeof(GenericRepository<Role>));
+
         // services
         services.AddScoped<IUserService, UserService>();
+        services.AddScoped<IRoleService, RoleService>();
 
         return services;
     }
