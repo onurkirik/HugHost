@@ -21,8 +21,4 @@
       <ProjectReference Include="..\HugHost.Presentation\HugHost.Presentation.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Controllers\" />
-    </ItemGroup>
-
 </Project>
