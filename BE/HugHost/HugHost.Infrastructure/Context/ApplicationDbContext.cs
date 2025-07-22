@@ -6,6 +6,7 @@ namespace HugHost.Infrastructure.Context;
 
 public class ApplicationDbContext : IdentityDbContext<User, Role, Guid>
 {
+    public DbSet<ActivityLog> ActivityLogs { get; set; }
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
     {
     }

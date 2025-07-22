@@ -1,4 +1,6 @@
+using HugHost.Application.Common.Responses;
 using HugHost.Application.Queries.User.GetUser;
+using HugHost.Application.Shared.DTOs;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,7 +18,7 @@ public class UserController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<GetUserQueryResponse>> GetUser([FromQuery] GetUserQuery request)
+    public async Task<ActionResult<QueryResponse<UserDto>>> GetUser([FromQuery] GetUserQuery request)
     {
         return await _mediator.Send(request);
     }
