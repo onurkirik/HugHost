@@ -1,3 +1,5 @@
+using HugHost.Domain.Entities;
+
 namespace HugHost.Application.Queries.User.GetUser;
 
 public class GetUserQueryResponse

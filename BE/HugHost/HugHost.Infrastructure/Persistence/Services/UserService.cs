@@ -37,15 +37,6 @@ public class UserService : IUserService
 
     public async Task UpdateAsync(User user)
     {
-        var userToUpdate = new HugHost.Infrastructure.Identity.Entities.User
-        {
-            Id = user.Id,
-            UserName = user.UserName,
-            Email = user.Email,
-            EmailConfirmed = true,
-            FullName = user.FullName
-        };
-
         _userRepository.Update(user);
 
         await _userRepository.SaveChangesAsync();

@@ -21,9 +21,9 @@ public static class ServiceExtension
 
         // repositories
         services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-        services.AddScoped<UserManager<Identity.Entities.User>>();
-        services.AddScoped(typeof(IGenericRepository<Identity.Entities.User>),
-            typeof(GenericRepository<Identity.Entities.User>));
+        services.AddScoped<UserManager<User>>();
+        services.AddScoped(typeof(IGenericRepository<User>),
+            typeof(GenericRepository<User>));
 
         // services
         services.AddScoped<IUserService, UserService>();

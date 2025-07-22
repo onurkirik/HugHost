@@ -1,9 +1,9 @@
+using HugHost.Domain.Entities;
+using Microsoft.AspNetCore.Identity;
+
 namespace HugHost.Domain.Entities;
 
-public class User
+public class User : IdentityUser<Guid>
 {
-    public Guid Id { get; set; }
     public required string FullName { get; set; }
-    public required string UserName { get; set; }
-    public required string Email { get; set; }
 }

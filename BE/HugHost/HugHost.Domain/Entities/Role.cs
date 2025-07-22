@@ -1,7 +1,7 @@
+using Microsoft.AspNetCore.Identity;
+
 namespace HugHost.Domain.Entities;
 
-public class Role
+public class Role : IdentityRole<Guid>
 {
-    public Guid Id { get; set; }
-    public required string Name { get; set; }
 }

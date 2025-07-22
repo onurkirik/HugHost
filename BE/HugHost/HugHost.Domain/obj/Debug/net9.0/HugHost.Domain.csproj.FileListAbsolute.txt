@@ -10,3 +10,4 @@
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/refint/HugHost.Domain.dll
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.pdb
 /Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/ref/HugHost.Domain.dll
+/Users/onurkirik/Projects/HugHost/BE/HugHost/HugHost.Domain/obj/Debug/net9.0/HugHost.Domain.csproj.AssemblyReference.cache
